@@ -170,7 +170,7 @@ cython_debug/
 
 # Large datasets (students shouldn't commit these)
 *.csv
-!data/sample_*.csv          # Allow sample/example CSV files
+!data/*.csv          # Allow sample/example CSV files
 !data/examples/*.csv        # Allow example datasets
 *.xlsx
 *.xls
