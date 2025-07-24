@@ -1,0 +1,107 @@
+Name,Molecular_Weight,Mass_mg
+MG132,475.6,89.5
+Rapamycin,914.2,125.3
+Staurosporine,466.5,78.2
+Nocodazole,301.3,65.1
+Cycloheximide,281.3,82.7
+Actinomycin D,1255.4,156.8
+Puromycin,544.4,92.1
+Chloramphenicol,323.1,75.4
+Hygromycin B,527.5,98.6
+Kanamycin,484.5,87.3
+Neomycin,614.6,103.9
+Streptomycin,581.6,94.7
+Tetracycline,444.4,81.2
+Ampicillin,349.4,72.8
+Penicillin G,334.4,69.5
+Gentamicin,477.6,85.9
+Erythromycin,733.9,118.7
+Vancomycin,1449.3,167.2
+Rifampicin,822.9,134.5
+Doxycycline,444.4,81.2
+DMSO,78.1,15.6
+Ethanol,46.1,9.8
+Methanol,32.0,7.4
+Acetone,58.1,12.3
+Chloroform,119.4,24.8
+Tris,121.1,25.2
+HEPES,238.3,48.7
+MES,195.2,39.4
+PIPES,302.4,61.5
+MOPS,209.3,42.1
+Imidazole,68.1,14.2
+Glycine,75.1,15.8
+Alanine,89.1,18.4
+Valine,117.1,24.6
+Leucine,131.2,27.3
+Isoleucine,131.2,27.3
+Phenylalanine,165.2,34.1
+Tyrosine,181.2,37.4
+Tryptophan,204.2,42.0
+Serine,105.1,21.8
+Threonine,119.1,24.9
+Asparagine,132.1,27.5
+Glutamine,146.1,30.2
+Aspartic acid,133.1,27.6
+Glutamic acid,147.1,30.4
+Lysine,146.2,30.3
+Arginine,174.2,35.9
+Histidine,155.2,32.0
+Proline,115.1,23.8
+Cysteine,121.0,25.1
+Methionine,149.2,30.8
+ATP,507.2,101.4
+ADP,427.2,85.4
+AMP,347.2,69.4
+GTP,523.2,104.6
+GDP,443.2,88.6
+GMP,363.2,72.6
+CTP,483.2,96.6
+CDP,403.2,80.6
+CMP,323.2,64.6
+UTP,484.1,96.8
+UDP,404.2,80.8
+UMP,324.2,64.8
+NAD,663.4,132.7
+NADH,665.4,133.1
+NADP,743.4,148.7
+NADPH,745.4,149.1
+FAD,785.6,157.1
+FMN,456.3,91.3
+CoA,767.5,153.5
+Acetyl-CoA,809.6,161.9
+Glucose,180.2,36.0
+Fructose,180.2,36.0
+Galactose,180.2,36.0
+Sucrose,342.3,68.5
+Lactose,342.3,68.5
+Maltose,342.3,68.5
+Glycerol,92.1,18.4
+Mannitol,182.2,36.4
+Sorbitol,182.2,36.4
+Trehalose,378.3,75.7
+Sodium chloride,58.4,11.7
+Potassium chloride,74.6,14.9
+Calcium chloride,111.0,22.2
+Magnesium chloride,95.2,19.0
+Sodium phosphate,141.96,28.4
+Potassium phosphate,174.2,34.8
+Ammonium sulfate,132.1,26.4
+Sodium bicarbonate,84.0,16.8
+Potassium bicarbonate,100.1,20.0
+EDTA,292.2,58.4
+EGTA,380.4,76.1
+DTT,154.2,30.8
+TCEP,286.6,57.3
+BME,78.1,15.6
+Urea,60.1,12.0
+Guanidine HCl,95.5,19.1
+SDS,288.4,57.7
+Triton X-100,647.0,129.4
+Tween 20,1227.5,245.5
+NP-40,647.0,129.4
+CHAPS,614.9,123.0
+Digitonin,1229.3,245.9
+Saponin,973.2,194.6
+Phenol,94.1,18.8
+Phenol red,354.4,70.9
