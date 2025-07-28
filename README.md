@@ -8,7 +8,7 @@ Welcome to the Python for Biologists course repository! This contains all the no
 
 ## 🎓 Advanced users
 
-Follow the instrcution here to download the repo and begin local development: 
+Follow the instrcution here to download the repo and begin local development:
 
 ## 📚 Course Website
 
@@ -115,13 +115,13 @@ This course gives you the tools and direction, but the learning happens when you
 
 ## 👨‍🏫 Instructor
 
-**Dr. Helfrid Hochegger**
-📧 hh65@sussex.ac.uk
-🏢 JMS 5B9
-⏰ Office Hours: Thursdays 2-4pm
+**Prof. Helfrid Hochegger** 📧 hh65@sussex.ac.uk
+**Dr. Doran Amos**  📧 D.P.Amos@sussex.ac.uk
+
 
 ## 📜 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 These materials are freely available for educational use. Feel free to share and adapt with attribution.
 
 ---
