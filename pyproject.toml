@@ -8,7 +8,9 @@ dependencies = [
     "google>=3.0.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.7",
+    "matplotlib-venn>=1.1.2",
     "pandas>=2.3.2",
     "scipy>=1.16.2",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
 ]
