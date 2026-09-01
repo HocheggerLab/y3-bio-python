@@ -170,8 +170,12 @@ cython_debug/
 
 # Large datasets (students shouldn't commit these)
 *.csv
-!data/*.csv          # Allow sample/example CSV files
-!data/examples/*.csv        # Allow example datasets
+# Allow sample/example CSV files and course datasets.
+# NB: .gitignore has no inline comments — a trailing "# ..." becomes part of
+# the pattern, which is why these negations silently did nothing before.
+!data/*.csv
+!data/examples/*.csv
+!lab05/data/*.csv
 *.xlsx
 *.xls
 !data/sample_*.xlsx
