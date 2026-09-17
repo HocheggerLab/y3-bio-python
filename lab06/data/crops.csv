@@ -1,0 +1,19 @@
+Crop_Generic,Common_Name,Family,Flower_Shape,Insect_Dependence
+Apple,Apple,Rosaceae,open,high
+Bbean,Broad bean,Fabaceae,keel,partial
+Blackberry,Blackberry,Rosaceae,open,partial
+Blueberry,Blueberry,Ericaceae,bell,buzz
+Cherry,Cherry,Rosaceae,open,high
+Courgette,Courgette,Cucurbitaceae,tube,essential
+Cucumber,Cucumber,Cucurbitaceae,tube,essential
+Currant,Currant,Grossulariaceae,bell,partial
+Gooseberry,Gooseberry,Grossulariaceae,bell,partial
+Pear,Pear,Rosaceae,open,high
+Pepper,Pepper,Solanaceae,open,partial
+Physalis,Cape gooseberry,Solanaceae,open,partial
+Plum,Plum,Rosaceae,open,high
+Raspberry,Raspberry,Rosaceae,open,partial
+Rbean,Runner bean,Fabaceae,keel,high
+Squash,Squash,Cucurbitaceae,tube,essential
+Strawberry,Strawberry,Rosaceae,open,partial
+Tomato,Tomato,Solanaceae,poricidal,buzz

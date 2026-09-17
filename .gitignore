@@ -176,6 +176,7 @@ cython_debug/
 !data/*.csv
 !data/examples/*.csv
 !lab05/data/*.csv
+!lab06/data/*.csv
 *.xlsx
 *.xls
 !data/sample_*.xlsx
